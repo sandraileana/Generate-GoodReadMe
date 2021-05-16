@@ -1,9 +1,9 @@
 
 
-    # Homework ![GitHub package.json version]
+    # HOMEWORK README PROOF ![GitHub package.json version]
     
     ## Description
-    Proof of homework
+    ReadMe generated file using node.
 
     ## Table of Contents
     * [Installation](#installation)
@@ -15,23 +15,22 @@
     * [Credits](#credits)
 
     ## Installation
-    MIT
+    npm install and node index.js
 
     ## Usage
-    My grade
+    Creation of README.mdfile with user's information
 
     ## License
-    MIT
+    MIR
 
     ## Contributing
-    Class learning and internet research
-
-    ## Tests
     .
 
+    ## Tests
+    api, markdown, creation of readme and table of contents
+
     ## Questions
-    ![Profile Avatar](undefined)
-    For any question please e-mail at undefined.
+    For any question please e-mail at sandraileana@gmail.com.
 
     ## Credits
     Github: [sandraileana](undefined)

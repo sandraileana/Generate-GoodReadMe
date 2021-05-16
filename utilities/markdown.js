@@ -31,7 +31,6 @@ function markdown(data) {
     ${data.tests}
 
     ## Questions
-    ![Profile Avatar](${data.pfp})
     For any question please e-mail at ${data.email}.
 
     ## Credits

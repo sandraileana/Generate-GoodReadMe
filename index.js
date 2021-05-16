@@ -2,6 +2,8 @@ const inquirer = require('inquirer');
 
 const fs = require('fs');
 
+const api = require('./utilities/api');
+
 const markdown = require('./utilities/markdown');
 
 const questions = [
@@ -44,6 +46,11 @@ const questions = [
         type: "input",
         message: "Enter any tests you are running for your project: ",
         name: "tests"
+    },
+    {
+        type: "input",
+        message: "Enter your e-mail: ",
+        name: "email"
     }
 ];
 

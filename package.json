@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/sandraileana/Generate-GoodReadMe#readme",
   "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^9.0.2",
     "inquirer": "^8.0.0"
   }
 }
