@@ -2,9 +2,11 @@ function markdown(data) {
     return `
 
     # ${data.title} ![GitHub package.json version]
+    
+    ## Description
     ${data.description}
 
-    # Table of Contents
+    ## Table of Contents
     * [Installation](#installation)
     * [Usage](#usage)
     * [License](#license)
@@ -13,23 +15,26 @@ function markdown(data) {
     * [Questions](#questions)
     * [Credits](#credits)
 
-    # Installation
+    ## Installation
     ${data.installation}
 
-    # Usage
+    ## Usage
+    ${data.usage}
+
+    ## License
     ${data.licenses}
 
-    # Contributing
+    ## Contributing
     ${data.contribute}
 
-    # Tests
+    ## Tests
     ${data.tests}
 
-    # Questions
+    ## Questions
     ![Profile Avatar](${data.pfp})
     For any question please e-mail at ${data.email}.
 
-    # Credits
+    ## Credits
     Github: [${data.username}](${data.url})
 
     Copyright ${data.name}. All rights reserved.

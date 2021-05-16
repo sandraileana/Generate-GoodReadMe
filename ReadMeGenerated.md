@@ -1,9 +1,11 @@
 
 
-    # homework ![GitHub package.json version]
+    # Homework ![GitHub package.json version]
     
+    ## Description
+    Proof of homework
 
-    # Table of Contents
+    ## Table of Contents
     * [Installation](#installation)
     * [Usage](#usage)
     * [License](#license)
@@ -12,23 +14,26 @@
     * [Questions](#questions)
     * [Credits](#credits)
 
-    # Installation
-    WIT
+    ## Installation
+    MIT
 
-    # Usage
-    mit
+    ## Usage
+    My grade
 
-    # Contributing
-    am
+    ## License
+    MIT
 
-    # Tests
-    d
+    ## Contributing
+    Class learning and internet research
 
-    # Questions
+    ## Tests
+    .
+
+    ## Questions
     ![Profile Avatar](undefined)
     For any question please e-mail at undefined.
 
-    # Credits
+    ## Credits
     Github: [sandraileana](undefined)
 
     Copyright undefined. All rights reserved.
