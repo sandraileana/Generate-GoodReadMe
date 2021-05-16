@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/sandraileana/Generate-GoodReadMe/issues"
   },
-  "homepage": "https://github.com/sandraileana/Generate-GoodReadMe#readme"
+  "homepage": "https://github.com/sandraileana/Generate-GoodReadMe#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
 }
